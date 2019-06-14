@@ -64,4 +64,4 @@ rad2.grid(column = 1,row = 5)
 
 rad3 = tk.Radiobutton(win,value = 3,text=COLOR3,variable = radVar,command = radCall)
 rad3.grid(column = 2,row = 5) 
-win.mainloop()
+win.mainloop() 
